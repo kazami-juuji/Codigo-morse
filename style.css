@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa; /* Color de fondo claro */
+}
+
+.card {
+    background-color: #ffffff; /* Fondo blanco para la tarjeta */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+.card h2 {
+    color: #007bff; /* Color del título */
+}
+
+#resultado {
+    margin-top: 20px; /* Espacio superior para el texto de resultado */
+    font-weight: bold; /* Negrita para el texto de resultado */
+}
